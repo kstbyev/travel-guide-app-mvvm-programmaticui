@@ -1,9 +1,4 @@
-//
-//  HomeScreenModel.swift
-//  travel-guide-app
-//
-//  Created by Burak Ertaş on 5.10.2022.
-//
+
 
 import Foundation
 
